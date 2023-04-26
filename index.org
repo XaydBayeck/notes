@@ -1,0 +1,12 @@
+#+title:  Welcome
+
+  [[file:statics/avatar.jpg]]
+
+  Welcome to my notes web. I will record things I've learned or I found interestings here.
+
+  There has my blog and =TODOS= also some [[https://zettelkasten.de/posts/overview/][Zettelkasten]]
+
+
+  #+begin_quote
+  This site is poered by [[https://emanote.srid.ca/][Emanote]]!
+  #+end_quote
