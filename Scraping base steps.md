@@ -1,5 +1,5 @@
 ---
-tag: scraping
+tags: [scraping]
 ---
 
 # Scraping base steps
