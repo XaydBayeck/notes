@@ -11,4 +11,4 @@ For scraping a website. You need at least 3 steps.
 + Second, You need parse the **response** to a *structure* of the language you use.
 And use the *tag*, *attributes* or *css selector* to filter the result for searching information you interest.
 
-+ Third, then you can use any way to deal the filetred result.
++ Third, then you can use any way to deal the filtered result.
