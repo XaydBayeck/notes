@@ -3,6 +3,8 @@
 
 page:
   siteTitle: Sid's notes
+  headHtml: |
+    <snippet var="js.mathjax" />
 
 template:
   # theme: red
